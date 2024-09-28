@@ -12,3 +12,4 @@ print(number % 1000 // 100, end='')  # 3 цифра
 print(number % 10000 // 1000, end='')  # 2 цифра
 print(number // 10000)  #1 цифра
 #https://github.com/Melnyk70/Lesson_2.git
+# https://github.com/Melnyk70/Lesson_2/blob/main/main.py
