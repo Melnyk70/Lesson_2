@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f140d0b-6550-49b4-80a8-0ed8a5fcbfac" name="Changes" comment="lesson2.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f140d0b-6550-49b4-80a8-0ed8a5fcbfac" name="Changes" comment="lesson2.2&#10;&#10;Signed-off-by: MelnykIhor &lt;melnyk70@gmail.com&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727520053346</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson2.2&#10;&#10;Signed-off-by: MelnykIhor &lt;melnyk70@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1727522029858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727522029858</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -134,9 +140,9 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="lesson2.0" />
     <MESSAGE value="lesson2.1" />
-    <MESSAGE value="lesson2.2&#10;&#10;Signed-off-by: MelnykIhor &lt;melnyk70@gmail.com&gt;" />
     <MESSAGE value="lesson2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson2.2" />
+    <MESSAGE value="lesson2.2&#10;&#10;Signed-off-by: MelnykIhor &lt;melnyk70@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2.2&#10;&#10;Signed-off-by: MelnykIhor &lt;melnyk70@gmail.com&gt;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
