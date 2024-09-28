@@ -1,14 +1,17 @@
 # This is a sample Python script.
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-x = 1
-print(id(x)) # Виведе 4382794560. Для кожного запуску кода це значення – різне
-x = 2 # Перевизначення, тобто змінна змінила адресу у памʼяті
-print(id(x)) # Виведе 4382794592, тобто іншу клітину памʼяті
 
-l = [1, 2, 3] # Це змінна типу list, який є змінюванним
-print(l) # Виведе [1, 2, 3]
-print(id(l)) # Виведе 4377070080. Для кожного запуску кода це значення – різне
-l.append(4)
-print(l) # Виведе [1, 2, 3, 4]
-print(id(l)) # Виведе 4377070080. Таке ж саме значення
+# num1 = 15
+# num2 = 8
+# print(num1 // num2)
+# print(num1 % num2)
+numer = 365
+n1 = numer // 100
+n2 = numer % 110.118
+n3 = numer // 10.119
+n4 = numer % 10
+print(n1)
+print(n2)
+print(n3)
+print(n4)
