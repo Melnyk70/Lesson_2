@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f140d0b-6550-49b4-80a8-0ed8a5fcbfac" name="Changes" comment="lesson2.0">
+    <list default="true" id="4f140d0b-6550-49b4-80a8-0ed8a5fcbfac" name="Changes" comment="lesson2.1">
+      <changelist_data name="MelnykIhor" email="melnyk70@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -14,7 +15,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MelnykIhor &lt;melnyk70@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MaliciousPackageCheckinHandlerState">
     <option name="packageCheck" value="true" />
@@ -91,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727515425074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson2.1">
+      <option name="closed" value="true" />
+      <created>1727517130816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727517130816</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -112,7 +127,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="lesson2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson2.0" />
+    <MESSAGE value="lesson2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2.1" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
