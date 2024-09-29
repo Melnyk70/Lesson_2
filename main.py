@@ -7,4 +7,3 @@ print(number % 100 // 10, end='')  # 4 цифра
 print(number % 1000 // 100, end='')  # 3 цифра
 print(number % 10000 // 1000, end='')  # 2 цифра
 print(number // 10000)  #1 цифра
-#
